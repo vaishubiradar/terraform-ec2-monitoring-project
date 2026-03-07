@@ -29,4 +29,4 @@ terraform apply
 ![Budget](screenshots/budget.png)
 
 ### Terraform Apply
-![Terraform](screenshots/terraform.png)
+![Terraform](screenshots/terraform.jpeg)
