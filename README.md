@@ -1,11 +1,32 @@
-This  project aautomates EC2 instance creation using Terraform and implements monitoring and cost alerts.
-Tools Used :-
-1.AWS
-2.Terraform
-3.GitHub
+# Terraform EC2 Monitoring Project
 
-Services Used:-
-1.EC2
-2.Security Group
-3.cloudeWatch
-4.AWS Budget
+## Project Overview
+This project automates EC2 instance creation using Terraform and sets up monitoring and budget alerts.
+
+## Tools Used
+- AWS
+- Terraform
+- GitHub
+
+## AWS Services Used
+- EC2
+- CloudWatch
+- AWS Budgets
+
+## How to Run
+terraform init
+terraform plan
+terraform apply
+
+## Screenshots
+### EC2 Instance
+![EC2](screenshots/ec2.png)
+
+### CloudWatch Alarm
+![CloudWatch](screenshots/cloudwatch.png)
+
+### Budget Alert
+![Budget](screenshots/budget.png)
+
+### Terraform Apply
+![Terraform](screenshots/terraform.png)
